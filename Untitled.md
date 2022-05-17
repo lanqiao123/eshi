@@ -14,4 +14,3 @@ an_example=42
 ```python
 an_apple=27
 ```
-and
